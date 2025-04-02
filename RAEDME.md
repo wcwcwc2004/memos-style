@@ -1,9 +1,7 @@
 把下面的复制到 memos 的 style 输入栏保存即可 下面有内容展示
 ```bash
-/* 使用更高优先级的选择器来确保颜色样式生效 */
-body .text-blue-600 {
-    color: rgb(254 254 254) !important;
-}）  （/* 全局基础样式 */
+
+/* 全局基础样式 */
 html, body {
     margin: 0;
     padding: 0;
